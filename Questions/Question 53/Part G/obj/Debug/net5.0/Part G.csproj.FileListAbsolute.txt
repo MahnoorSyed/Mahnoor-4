@@ -1,0 +1,16 @@
+C:\Users\Mahnoor\Desktop\Assignment 4\Mahnoor-4\Questions\Question 53\Part G\bin\Debug\net5.0\Part G.exe
+C:\Users\Mahnoor\Desktop\Assignment 4\Mahnoor-4\Questions\Question 53\Part G\bin\Debug\net5.0\Part G.deps.json
+C:\Users\Mahnoor\Desktop\Assignment 4\Mahnoor-4\Questions\Question 53\Part G\bin\Debug\net5.0\Part G.runtimeconfig.json
+C:\Users\Mahnoor\Desktop\Assignment 4\Mahnoor-4\Questions\Question 53\Part G\bin\Debug\net5.0\Part G.runtimeconfig.dev.json
+C:\Users\Mahnoor\Desktop\Assignment 4\Mahnoor-4\Questions\Question 53\Part G\bin\Debug\net5.0\Part G.dll
+C:\Users\Mahnoor\Desktop\Assignment 4\Mahnoor-4\Questions\Question 53\Part G\bin\Debug\net5.0\ref\Part G.dll
+C:\Users\Mahnoor\Desktop\Assignment 4\Mahnoor-4\Questions\Question 53\Part G\bin\Debug\net5.0\Part G.pdb
+C:\Users\Mahnoor\Desktop\Assignment 4\Mahnoor-4\Questions\Question 53\Part G\obj\Debug\net5.0\Part G.csprojAssemblyReference.cache
+C:\Users\Mahnoor\Desktop\Assignment 4\Mahnoor-4\Questions\Question 53\Part G\obj\Debug\net5.0\Part G.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahnoor\Desktop\Assignment 4\Mahnoor-4\Questions\Question 53\Part G\obj\Debug\net5.0\Part G.AssemblyInfoInputs.cache
+C:\Users\Mahnoor\Desktop\Assignment 4\Mahnoor-4\Questions\Question 53\Part G\obj\Debug\net5.0\Part G.AssemblyInfo.cs
+C:\Users\Mahnoor\Desktop\Assignment 4\Mahnoor-4\Questions\Question 53\Part G\obj\Debug\net5.0\Part G.csproj.CoreCompileInputs.cache
+C:\Users\Mahnoor\Desktop\Assignment 4\Mahnoor-4\Questions\Question 53\Part G\obj\Debug\net5.0\Part G.dll
+C:\Users\Mahnoor\Desktop\Assignment 4\Mahnoor-4\Questions\Question 53\Part G\obj\Debug\net5.0\ref\Part G.dll
+C:\Users\Mahnoor\Desktop\Assignment 4\Mahnoor-4\Questions\Question 53\Part G\obj\Debug\net5.0\Part G.pdb
+C:\Users\Mahnoor\Desktop\Assignment 4\Mahnoor-4\Questions\Question 53\Part G\obj\Debug\net5.0\Part G.genruntimeconfig.cache
